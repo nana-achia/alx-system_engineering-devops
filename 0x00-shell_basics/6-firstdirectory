@@ -1,2 +1,2 @@
 #!/bin/bash
-nkdir my_first_directory
+mkdir my_first_directory
